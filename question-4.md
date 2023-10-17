@@ -1,7 +1,5 @@
 # Design question (easy)
 
-Of course, here's a simpler object-oriented design question for an interview:
-
 **Question:**
 
 Design a basic system for modeling geometric shapes in an object-oriented manner. Consider two shapes: circles and rectangles. Each shape should have the following properties and methods:
