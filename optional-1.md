@@ -10,7 +10,3 @@ Design the classes and relationships for this library management system. Ensure 
 2. Removing a book from the library when it's borrowed.
 3. Allowing patrons to borrow and return books.
 4. Displaying the list of books a patron has borrowed.
-
-Please provide the class definitions, including constructors and methods, and explain how these classes are related and how they ensure the integrity of the library system. Additionally, you can provide a simple code snippet that demonstrates how to use these classes to add books, manage patron interactions, and display borrowed books.
-
-This question assesses the candidate's ability to design and implement a basic object-oriented system with proper class definitions, relationships, and methods while considering data integrity and user interactions.
